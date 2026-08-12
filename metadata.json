@@ -1,0 +1,8 @@
+{
+  "name": "  CirZuit 3D 2",
+  "description": "A professional mobile-first electronic circuit schematic and PCB editor with smart auto-routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
